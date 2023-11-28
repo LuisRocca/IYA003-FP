@@ -21,7 +21,9 @@ Buenos Aires, Marco inicia el recorrido... </p>
 ## INSTRUCCIONES PARA CORRER EL PROGRAMA 
 
 1 - debes contar con Node.js instalado en tu ps para poder ejecutar el programa 
+
 2 - Luego de contar con las dependecias debles clonar el repositorio 
+
 3 - Una vez copiado el repositorio debes acceder al la carpeta del proyecto y ejecutar el comando 
 
 ```cdm

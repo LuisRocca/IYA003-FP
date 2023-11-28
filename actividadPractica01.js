@@ -4,7 +4,7 @@ let dia = 1;
 
 // Bucle principal que simula los días de viaje
 while (distanciaEntreMarcoYMadre > 0) {
-  const tiempoRecorridoPorMarco = distanciaEntreMarcoYMadre;
+  // const tiempoRecorridoPorMarco = distanciaEntreMarcoYMadre;
   // Simular el clima para Marco (probabilidad de lluvia fuerte, lluvia normal o buen clima)
   const clima = Math.random();
   let mensajeClimaMarco = 'hecho un buen dia';
